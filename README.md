@@ -8,8 +8,4 @@
 
 파일 이름 = 문제 번호
 
-파일 Commit Message =  문제 제목
-
-폴더 이름 = 알고리즘
-
-폴더 Commit Message = 가장 최근에 업로드한 문제 제목
+Commit Message =  문제 제목 (알고리즘)
